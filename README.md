@@ -140,9 +140,13 @@ jupyter notebook notebooks/social_media_compaign_analysis.ipynb
 ## 📸 Dashboard Screenshots
 
 > <img width="1309" height="734" alt="image" src="https://github.com/user-attachments/assets/ac68f04e-c90c-496e-8a70-aa3451c652e7" />
+
 <img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/07bca3d9-99bd-462d-acca-53dd71c2b78e" />
+
 <img width="1309" height="737" alt="image" src="https://github.com/user-attachments/assets/56c2495a-cbe7-4f19-8e60-534c965a3aca" />
+
 <img width="1311" height="724" alt="image" src="https://github.com/user-attachments/assets/f090b36e-8ac6-4de0-b96d-8ff78bcb3a14" />
+
 <img width="1310" height="730" alt="image" src="https://github.com/user-attachments/assets/b3a62cbc-b36c-4f17-a693-07487ba4ad60" />
 
 
@@ -160,7 +164,7 @@ jupyter notebook notebooks/social_media_compaign_analysis.ipynb
 ## 📬 Contact
 
 **[Your Name]**
-📧 your.email@gmail.com
+📧 nishrithavemula19@gmail.com
 💼 [LinkedIn] https://www.linkedin.com/in/nishritha-vemula-2159232a6/
 🐙 [GitHub]https://github.com/Nishritha-vemula/
 
