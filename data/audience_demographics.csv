@@ -1,0 +1,367 @@
+demo_id,campaign_id,age_group,gender,device,country,reach,clicks,conversions,spend_usd
+1,1,35-44,Male,Mobile,Madagascar,1913,4538,101,1753.31
+2,1,35-44,Female,Tablet,Algeria,31526,2903,194,2017.68
+3,1,35-44,Non-binary,Mobile,Tunisia,35092,2368,73,3512.24
+4,1,55+,Male,Mobile,Panama,46447,4539,101,576.87
+5,1,55+,Female,Desktop,Tanzania,49800,4804,14,4264.07
+6,1,55+,Non-binary,Tablet,Congo,20427,3798,168,902.1
+7,1,25-34,Male,Mobile,Israel,29459,4002,75,4496.37
+8,1,25-34,Female,Mobile,Bolivia,14795,1652,189,3291.07
+9,1,25-34,Non-binary,Desktop,Turks and Caicos Islands,48076,4765,27,3423.76
+10,1,45-54,Male,Mobile,Timor-Leste,25177,3548,174,4224.13
+11,1,45-54,Female,Mobile,Madagascar,6794,2962,122,980.2
+12,1,45-54,Non-binary,Mobile,Togo,8190,4272,167,1758.58
+13,2,18-24,Male,Desktop,Monaco,32522,2529,177,3021.16
+14,2,18-24,Female,Mobile,Sri Lanka,43281,3125,199,3489.79
+15,2,18-24,Non-binary,Tablet,South Georgia and the South Sandwich Islands,43656,784,200,2372.0
+16,2,35-44,Male,Tablet,Russian Federation,25541,2304,162,3300.66
+17,2,35-44,Female,Desktop,Tokelau,1260,1033,30,504.92
+18,2,35-44,Non-binary,Desktop,Angola,42535,4225,58,212.83
+19,2,55+,Male,Tablet,Switzerland,38027,3978,71,3499.26
+20,2,55+,Female,Mobile,Kazakhstan,39354,1533,99,2472.54
+21,2,55+,Non-binary,Tablet,Denmark,46554,3602,77,2899.97
+22,2,13-17,Male,Mobile,Kenya,21814,570,183,4553.51
+23,2,13-17,Female,Tablet,Tanzania,12616,3370,180,196.76
+24,2,13-17,Non-binary,Tablet,Morocco,35654,4392,126,413.27
+25,2,25-34,Male,Tablet,Malawi,35822,1066,193,3789.64
+26,2,25-34,Female,Tablet,French Polynesia,8189,1530,154,3506.56
+27,2,25-34,Non-binary,Mobile,Uganda,36854,3713,81,702.92
+28,2,45-54,Male,Mobile,Tajikistan,38188,1739,168,889.93
+29,2,45-54,Female,Tablet,Venezuela,17327,336,22,4901.65
+30,2,45-54,Non-binary,Tablet,Pitcairn Islands,20067,3028,140,940.86
+31,3,18-24,Male,Tablet,Slovenia,19728,4425,114,785.29
+32,3,18-24,Female,Desktop,Mauritius,46054,2613,134,4562.84
+33,3,18-24,Non-binary,Desktop,Brazil,40226,4459,131,1128.21
+34,3,25-34,Male,Mobile,Lesotho,43925,416,61,280.0
+35,3,25-34,Female,Mobile,El Salvador,20141,1813,35,3050.51
+36,3,25-34,Non-binary,Mobile,Cape Verde,39283,2991,72,729.61
+37,3,13-17,Male,Tablet,Colombia,28157,659,141,1349.34
+38,3,13-17,Female,Desktop,Mongolia,43083,1387,103,2334.73
+39,3,13-17,Non-binary,Desktop,Eritrea,44836,3534,178,801.9
+40,4,13-17,Male,Desktop,Turkey,37438,4239,155,903.81
+41,4,13-17,Female,Mobile,Trinidad and Tobago,21232,3602,98,226.96
+42,4,13-17,Non-binary,Tablet,Italy,16720,685,70,710.64
+43,4,25-34,Male,Mobile,Israel,45325,4542,105,423.2
+44,4,25-34,Female,Tablet,Guinea-Bissau,6331,3022,86,3912.55
+45,4,25-34,Non-binary,Mobile,Svalbard & Jan Mayen Islands,15295,2291,3,579.94
+46,4,18-24,Male,Mobile,Poland,25314,910,32,961.08
+47,4,18-24,Female,Tablet,El Salvador,20590,4873,126,568.15
+48,4,18-24,Non-binary,Desktop,Luxembourg,46405,4737,73,2802.56
+49,4,45-54,Male,Tablet,Russian Federation,6992,442,44,1658.18
+50,4,45-54,Female,Desktop,Belize,12340,2877,190,3421.28
+51,4,45-54,Non-binary,Tablet,Pakistan,36654,4921,104,2436.62
+52,5,25-34,Male,Mobile,Czech Republic,9850,3153,146,3703.57
+53,5,25-34,Female,Mobile,Saint Kitts and Nevis,48041,3082,182,3909.89
+54,5,25-34,Non-binary,Tablet,Mozambique,40391,3476,181,2343.15
+55,5,13-17,Male,Desktop,Palestinian Territory,23699,3889,129,1505.42
+56,5,13-17,Female,Desktop,Pakistan,34617,1924,79,3214.61
+57,5,13-17,Non-binary,Mobile,Costa Rica,20531,3380,198,1632.41
+58,5,18-24,Male,Mobile,Mauritius,42094,701,20,3676.77
+59,5,18-24,Female,Mobile,Tunisia,11320,4762,15,514.47
+60,5,18-24,Non-binary,Desktop,Saint Helena,36817,4087,3,4814.62
+61,5,55+,Male,Desktop,Ethiopia,44870,4217,188,768.5
+62,5,55+,Female,Desktop,South Georgia and the South Sandwich Islands,34251,4411,179,710.99
+63,5,55+,Non-binary,Mobile,Bahamas,40888,1607,191,135.72
+64,6,55+,Male,Mobile,Netherlands,44705,4338,58,956.59
+65,6,55+,Female,Desktop,Turkey,9237,4258,91,4767.17
+66,6,55+,Non-binary,Desktop,Oman,32973,3155,44,1929.09
+67,6,45-54,Male,Mobile,Costa Rica,22648,2096,139,4268.81
+68,6,45-54,Female,Mobile,Montserrat,19509,2500,124,1538.37
+69,6,45-54,Non-binary,Mobile,Eritrea,646,4709,101,1165.57
+70,6,25-34,Male,Desktop,Morocco,42637,4273,10,4683.53
+71,6,25-34,Female,Tablet,Fiji,32499,521,92,128.87
+72,6,25-34,Non-binary,Desktop,Djibouti,22031,2494,91,625.1
+73,6,13-17,Male,Desktop,British Indian Ocean Territory (Chagos Archipelago),47845,1575,103,1837.21
+74,6,13-17,Female,Mobile,Mayotte,28733,4080,51,515.24
+75,6,13-17,Non-binary,Tablet,Uruguay,10573,3414,32,4574.23
+76,6,35-44,Male,Mobile,Swaziland,10699,2099,58,2406.42
+77,6,35-44,Female,Desktop,Ethiopia,20113,3035,110,4471.75
+78,6,35-44,Non-binary,Tablet,Mauritius,18160,940,113,3315.77
+79,6,18-24,Male,Desktop,Egypt,11105,1195,91,3760.75
+80,6,18-24,Female,Mobile,Antigua and Barbuda,24042,1675,29,1028.88
+81,6,18-24,Non-binary,Mobile,Brazil,9260,3282,108,3745.23
+82,7,18-24,Male,Tablet,Namibia,17919,1023,108,2496.43
+83,7,18-24,Female,Desktop,Vanuatu,45178,1093,84,3780.34
+84,7,18-24,Non-binary,Desktop,Chad,33389,3235,34,637.69
+85,7,55+,Male,Mobile,Netherlands Antilles,1886,1083,40,1786.19
+86,7,55+,Female,Mobile,Luxembourg,45355,1987,14,3423.72
+87,7,55+,Non-binary,Desktop,Romania,28658,4941,189,139.34
+88,7,35-44,Male,Desktop,Bahamas,19470,2361,125,504.81
+89,7,35-44,Female,Desktop,Jordan,16736,1299,187,2605.08
+90,7,35-44,Non-binary,Mobile,Mayotte,18924,992,68,4971.86
+91,8,55+,Male,Tablet,Central African Republic,7254,4165,157,987.82
+92,8,55+,Female,Tablet,Pakistan,41716,1268,59,690.26
+93,8,55+,Non-binary,Desktop,Guinea-Bissau,3014,2293,50,4652.58
+94,8,35-44,Male,Desktop,Serbia,1657,1685,24,4335.32
+95,8,35-44,Female,Desktop,Belarus,27192,4350,79,3530.78
+96,8,35-44,Non-binary,Mobile,Korea,15034,2803,110,2448.06
+97,8,18-24,Male,Tablet,Maldives,28488,473,78,639.27
+98,8,18-24,Female,Desktop,Costa Rica,18886,2925,183,2148.56
+99,8,18-24,Non-binary,Desktop,Papua New Guinea,3616,1538,11,102.63
+100,8,45-54,Male,Tablet,Armenia,49308,2684,55,1498.05
+101,8,45-54,Female,Desktop,Mauritius,40249,875,111,1005.72
+102,8,45-54,Non-binary,Desktop,Belarus,24327,2788,78,646.49
+103,9,55+,Male,Desktop,Venezuela,24130,3010,191,3916.16
+104,9,55+,Female,Tablet,Cameroon,40130,3094,61,3286.22
+105,9,55+,Non-binary,Mobile,Sierra Leone,38794,3196,23,4447.25
+106,9,45-54,Male,Mobile,Saint Helena,41758,4980,31,301.09
+107,9,45-54,Female,Tablet,Sweden,12980,1630,181,2284.27
+108,9,45-54,Non-binary,Mobile,Tuvalu,5407,4527,159,1780.2
+109,9,18-24,Male,Tablet,Bulgaria,31577,1704,137,3631.77
+110,9,18-24,Female,Mobile,Gibraltar,8877,1620,108,2797.43
+111,9,18-24,Non-binary,Desktop,Montserrat,37222,2895,94,2297.56
+112,10,35-44,Male,Desktop,Djibouti,34825,4177,6,917.98
+113,10,35-44,Female,Desktop,Canada,46159,1106,75,322.68
+114,10,35-44,Non-binary,Tablet,Saint Vincent and the Grenadines,4484,1608,190,4091.21
+115,10,13-17,Male,Desktop,Bangladesh,45372,4411,132,4860.54
+116,10,13-17,Female,Mobile,Ireland,29188,4222,99,2856.24
+117,10,13-17,Non-binary,Desktop,Denmark,26770,2274,53,1001.93
+118,10,55+,Male,Mobile,Mayotte,37979,1834,152,3513.94
+119,10,55+,Female,Tablet,Kuwait,30347,4177,182,3630.84
+120,10,55+,Non-binary,Desktop,Japan,20384,1854,76,3570.45
+121,11,18-24,Male,Tablet,El Salvador,16111,2440,11,3234.12
+122,11,18-24,Female,Desktop,Angola,9214,2265,14,3247.82
+123,11,18-24,Non-binary,Mobile,Switzerland,14260,4429,30,106.86
+124,11,55+,Male,Desktop,Turks and Caicos Islands,41963,3073,84,507.91
+125,11,55+,Female,Tablet,American Samoa,36497,2213,185,754.7
+126,11,55+,Non-binary,Tablet,United States Virgin Islands,19826,2709,15,3167.18
+127,11,13-17,Male,Mobile,Samoa,23796,1846,188,4829.61
+128,11,13-17,Female,Mobile,Timor-Leste,17276,178,138,3320.86
+129,11,13-17,Non-binary,Tablet,Jordan,7475,3179,168,1360.99
+130,12,35-44,Male,Mobile,Benin,38619,3289,40,2285.67
+131,12,35-44,Female,Tablet,Lesotho,48097,3604,95,826.84
+132,12,35-44,Non-binary,Desktop,Honduras,6640,4112,47,2351.01
+133,12,18-24,Male,Mobile,Somalia,12877,4716,126,4722.44
+134,12,18-24,Female,Mobile,Ecuador,42938,2360,6,1619.79
+135,12,18-24,Non-binary,Mobile,Ecuador,26334,1588,18,803.26
+136,12,25-34,Male,Desktop,Barbados,16572,3777,166,4854.89
+137,12,25-34,Female,Mobile,Andorra,47968,4365,36,3661.15
+138,12,25-34,Non-binary,Mobile,French Guiana,40037,866,97,1981.55
+139,12,45-54,Male,Mobile,Indonesia,1388,408,34,1316.88
+140,12,45-54,Female,Mobile,Colombia,18041,1218,161,3038.22
+141,12,45-54,Non-binary,Mobile,Sudan,7469,4493,189,4109.45
+142,13,18-24,Male,Tablet,Russian Federation,29619,1386,79,1725.61
+143,13,18-24,Female,Mobile,Liberia,16478,507,140,3491.0
+144,13,18-24,Non-binary,Tablet,Chad,36126,1058,6,4142.13
+145,13,55+,Male,Mobile,Malta,36193,2480,27,2606.56
+146,13,55+,Female,Desktop,Libyan Arab Jamahiriya,9795,59,58,217.6
+147,13,55+,Non-binary,Desktop,Taiwan,25756,1257,91,3311.29
+148,13,35-44,Male,Mobile,Honduras,45353,3201,176,4432.7
+149,13,35-44,Female,Mobile,Kiribati,32731,1439,29,1200.16
+150,13,35-44,Non-binary,Desktop,United States Minor Outlying Islands,23916,674,158,1735.25
+151,14,13-17,Male,Tablet,Isle of Man,22444,4962,47,3429.22
+152,14,13-17,Female,Mobile,Maldives,44230,2520,160,4106.06
+153,14,13-17,Non-binary,Desktop,Uruguay,7310,2270,128,3342.49
+154,14,55+,Male,Desktop,Saint Pierre and Miquelon,47116,675,1,4322.4
+155,14,55+,Female,Mobile,Tuvalu,43482,1250,82,824.12
+156,14,55+,Non-binary,Desktop,Maldives,47773,3969,18,654.5
+157,14,18-24,Male,Desktop,Niger,48125,2331,38,543.19
+158,14,18-24,Female,Mobile,American Samoa,12419,3204,91,1664.65
+159,14,18-24,Non-binary,Desktop,Chile,32041,3441,155,3988.16
+160,14,45-54,Male,Desktop,Aruba,9558,2064,99,2151.43
+161,14,45-54,Female,Desktop,Guyana,35807,4422,127,2709.12
+162,14,45-54,Non-binary,Mobile,Singapore,25706,734,149,3603.11
+163,14,35-44,Male,Tablet,Finland,38371,1846,180,527.53
+164,14,35-44,Female,Desktop,Cayman Islands,687,1715,5,1875.75
+165,14,35-44,Non-binary,Desktop,Kuwait,9255,952,16,4565.67
+166,15,18-24,Male,Mobile,Peru,14310,1889,15,3760.28
+167,15,18-24,Female,Mobile,Czech Republic,46098,1222,97,3692.1
+168,15,18-24,Non-binary,Tablet,Antarctica (the territory South of 60 deg S),28333,3094,14,3536.87
+169,15,25-34,Male,Tablet,Romania,38616,654,123,4203.44
+170,15,25-34,Female,Mobile,Hong Kong,2478,1253,94,792.26
+171,15,25-34,Non-binary,Mobile,Guinea,5550,152,146,4172.23
+172,15,35-44,Male,Desktop,Isle of Man,10311,1544,121,3743.43
+173,15,35-44,Female,Tablet,Thailand,35066,2503,121,2116.46
+174,15,35-44,Non-binary,Desktop,United Kingdom,29596,158,74,645.21
+175,15,13-17,Male,Mobile,Egypt,42603,313,155,3780.55
+176,15,13-17,Female,Tablet,South Georgia and the South Sandwich Islands,11008,139,102,4180.13
+177,15,13-17,Non-binary,Tablet,American Samoa,30272,4589,183,4164.64
+178,15,55+,Male,Tablet,Norfolk Island,33390,2557,182,1213.84
+179,15,55+,Female,Mobile,Seychelles,18314,803,134,1950.05
+180,15,55+,Non-binary,Mobile,Uruguay,49202,1785,103,3133.31
+181,16,35-44,Male,Desktop,Dominican Republic,31787,2615,168,3245.27
+182,16,35-44,Female,Desktop,Belarus,11301,497,96,3268.57
+183,16,35-44,Non-binary,Mobile,Finland,18189,938,27,481.26
+184,16,18-24,Male,Tablet,Tokelau,22485,279,62,1482.81
+185,16,18-24,Female,Tablet,Rwanda,7477,585,55,3025.84
+186,16,18-24,Non-binary,Desktop,Montenegro,12803,4569,52,3228.11
+187,16,13-17,Male,Mobile,India,16250,2255,22,4885.65
+188,16,13-17,Female,Tablet,Singapore,3440,4668,124,323.84
+189,16,13-17,Non-binary,Desktop,Tunisia,6608,2578,3,4904.65
+190,16,25-34,Male,Desktop,Martinique,26592,4147,50,1640.91
+191,16,25-34,Female,Desktop,Azerbaijan,48058,2965,34,3543.02
+192,16,25-34,Non-binary,Mobile,Germany,22213,3386,190,2567.53
+193,17,13-17,Male,Tablet,Guernsey,2951,2426,42,842.54
+194,17,13-17,Female,Desktop,Hong Kong,5661,814,184,1234.69
+195,17,13-17,Non-binary,Mobile,Finland,45160,1203,197,3620.92
+196,17,45-54,Male,Tablet,Ghana,34336,4336,197,1772.93
+197,17,45-54,Female,Mobile,Tajikistan,22718,2432,93,3155.01
+198,17,45-54,Non-binary,Desktop,Barbados,3122,3225,62,1123.22
+199,17,35-44,Male,Tablet,Indonesia,40272,664,40,2877.81
+200,17,35-44,Female,Desktop,British Indian Ocean Territory (Chagos Archipelago),6883,172,37,3854.95
+201,17,35-44,Non-binary,Desktop,Cuba,36357,764,128,561.16
+202,17,18-24,Male,Desktop,Ghana,11622,2471,42,433.99
+203,17,18-24,Female,Tablet,Cook Islands,24311,2944,23,448.56
+204,17,18-24,Non-binary,Tablet,Korea,30695,2163,122,4894.57
+205,18,55+,Male,Desktop,Oman,19284,3334,105,4299.3
+206,18,55+,Female,Tablet,Angola,8953,3661,94,2611.15
+207,18,55+,Non-binary,Tablet,Northern Mariana Islands,21055,3111,22,3442.78
+208,18,18-24,Male,Tablet,France,29997,2203,175,309.11
+209,18,18-24,Female,Tablet,Turkey,4239,2055,180,4124.05
+210,18,18-24,Non-binary,Mobile,Martinique,10629,912,75,1941.53
+211,18,13-17,Male,Tablet,Burkina Faso,26667,647,58,2002.29
+212,18,13-17,Female,Desktop,Uganda,44353,815,90,2382.8
+213,18,13-17,Non-binary,Tablet,Seychelles,35569,3858,28,520.53
+214,18,25-34,Male,Tablet,Georgia,7600,3301,197,2222.26
+215,18,25-34,Female,Desktop,Congo,22043,578,82,1777.88
+216,18,25-34,Non-binary,Tablet,Gambia,32369,1791,180,3732.3
+217,18,45-54,Male,Mobile,Brazil,18743,3773,10,2770.9
+218,18,45-54,Female,Desktop,Northern Mariana Islands,10036,1798,82,2884.21
+219,18,45-54,Non-binary,Tablet,Saint Lucia,25422,561,93,3968.84
+220,18,35-44,Male,Desktop,British Indian Ocean Territory (Chagos Archipelago),14486,493,55,4353.3
+221,18,35-44,Female,Tablet,Northern Mariana Islands,28216,2260,65,3214.87
+222,18,35-44,Non-binary,Mobile,Fiji,9788,617,71,2084.84
+223,19,55+,Male,Tablet,Morocco,17503,1557,14,552.96
+224,19,55+,Female,Desktop,Iceland,22914,2482,43,1073.17
+225,19,55+,Non-binary,Desktop,Myanmar,32063,3945,138,3475.27
+226,19,35-44,Male,Mobile,Dominican Republic,46158,3628,91,4571.73
+227,19,35-44,Female,Tablet,Comoros,26002,131,144,3937.05
+228,19,35-44,Non-binary,Tablet,Isle of Man,13512,687,186,3373.02
+229,19,45-54,Male,Tablet,Cape Verde,9977,2702,171,4933.2
+230,19,45-54,Female,Tablet,Azerbaijan,49182,2642,4,837.48
+231,19,45-54,Non-binary,Desktop,Falkland Islands (Malvinas),10165,4141,82,656.67
+232,19,25-34,Male,Tablet,Armenia,27132,2202,134,3639.2
+233,19,25-34,Female,Desktop,Holy See (Vatican City State),8739,3730,164,4850.34
+234,19,25-34,Non-binary,Mobile,Mexico,2891,1840,191,4897.26
+235,19,13-17,Male,Desktop,Albania,46142,4523,199,913.9
+236,19,13-17,Female,Desktop,Thailand,14664,2901,54,4766.65
+237,19,13-17,Non-binary,Tablet,Algeria,38303,167,95,4087.52
+238,20,25-34,Male,Tablet,France,33211,3785,106,2110.9
+239,20,25-34,Female,Desktop,Bermuda,36051,3538,134,4872.94
+240,20,25-34,Non-binary,Desktop,Tokelau,7930,1490,118,2199.08
+241,20,55+,Male,Mobile,Samoa,36725,4923,42,2759.54
+242,20,55+,Female,Desktop,Latvia,19179,3633,163,1487.92
+243,20,55+,Non-binary,Tablet,Saudi Arabia,7002,767,27,539.23
+244,20,13-17,Male,Mobile,Ukraine,40887,3419,27,2532.38
+245,20,13-17,Female,Tablet,Estonia,36199,866,163,2276.11
+246,20,13-17,Non-binary,Tablet,Chad,2638,2424,108,1138.17
+247,21,45-54,Male,Desktop,Wallis and Futuna,30905,3432,166,3548.79
+248,21,45-54,Female,Tablet,Malawi,26439,112,96,3932.76
+249,21,45-54,Non-binary,Tablet,Cameroon,19086,2242,169,1396.05
+250,21,35-44,Male,Desktop,Israel,44625,2028,2,4510.92
+251,21,35-44,Female,Desktop,Germany,2641,177,7,851.54
+252,21,35-44,Non-binary,Desktop,Netherlands,34510,4964,82,1741.94
+253,21,13-17,Male,Tablet,Timor-Leste,28681,2031,143,4870.1
+254,21,13-17,Female,Mobile,San Marino,40887,3272,14,4026.53
+255,21,13-17,Non-binary,Tablet,Andorra,28621,1105,163,2013.02
+256,21,55+,Male,Tablet,Montenegro,11884,3352,82,2634.66
+257,21,55+,Female,Desktop,Zambia,15636,865,182,4025.74
+258,21,55+,Non-binary,Tablet,Sudan,8257,4776,101,4230.85
+259,21,18-24,Male,Tablet,Sao Tome and Principe,17554,4579,41,4748.63
+260,21,18-24,Female,Mobile,Slovenia,6611,814,7,2243.36
+261,21,18-24,Non-binary,Tablet,Angola,39381,1303,8,3128.69
+262,21,25-34,Male,Tablet,Myanmar,5662,4734,98,223.92
+263,21,25-34,Female,Tablet,Ukraine,9055,3766,163,3194.36
+264,21,25-34,Non-binary,Desktop,Gibraltar,12726,2013,168,4499.76
+265,22,18-24,Male,Desktop,Cote d'Ivoire,43705,473,71,506.52
+266,22,18-24,Female,Mobile,Sao Tome and Principe,41619,239,164,4925.51
+267,22,18-24,Non-binary,Mobile,Indonesia,7770,3811,153,701.15
+268,22,45-54,Male,Mobile,Slovakia (Slovak Republic),19011,2196,47,554.61
+269,22,45-54,Female,Desktop,Colombia,24184,1753,101,593.29
+270,22,45-54,Non-binary,Mobile,Costa Rica,27615,652,125,4800.16
+271,22,55+,Male,Mobile,Lesotho,14281,3489,97,4459.6
+272,22,55+,Female,Tablet,Heard Island and McDonald Islands,30048,1369,47,1563.9
+273,22,55+,Non-binary,Mobile,China,43731,4697,162,3072.61
+274,22,25-34,Male,Mobile,Botswana,8181,2858,89,2471.16
+275,22,25-34,Female,Tablet,Venezuela,39821,4526,2,876.1
+276,22,25-34,Non-binary,Tablet,Djibouti,17178,1046,50,3069.94
+277,22,35-44,Male,Tablet,Swaziland,2009,4293,132,3828.71
+278,22,35-44,Female,Mobile,North Macedonia,24413,990,56,244.54
+279,22,35-44,Non-binary,Mobile,Finland,14902,733,187,3488.85
+280,23,25-34,Male,Mobile,Niue,23342,4567,167,1542.17
+281,23,25-34,Female,Tablet,Bangladesh,32992,3622,132,4737.09
+282,23,25-34,Non-binary,Mobile,Venezuela,16890,1466,51,3466.58
+283,23,55+,Male,Tablet,El Salvador,18921,3268,27,2959.88
+284,23,55+,Female,Tablet,Namibia,20920,1407,53,4773.43
+285,23,55+,Non-binary,Desktop,Mali,28907,3704,109,3022.02
+286,23,35-44,Male,Desktop,Svalbard & Jan Mayen Islands,21389,931,156,1976.92
+287,23,35-44,Female,Mobile,Serbia,37668,2941,96,4499.68
+288,23,35-44,Non-binary,Mobile,Guam,29952,1420,9,4794.68
+289,23,13-17,Male,Desktop,Kenya,38961,3407,76,3059.02
+290,23,13-17,Female,Tablet,Angola,35266,2935,102,246.71
+291,23,13-17,Non-binary,Mobile,Spain,21647,3567,48,1852.95
+292,24,18-24,Male,Mobile,Senegal,21107,1051,3,1661.09
+293,24,18-24,Female,Mobile,Holy See (Vatican City State),47476,2744,55,2380.35
+294,24,18-24,Non-binary,Desktop,Austria,15746,4650,17,1989.4
+295,24,25-34,Male,Tablet,British Indian Ocean Territory (Chagos Archipelago),14405,4369,56,604.31
+296,24,25-34,Female,Desktop,Svalbard & Jan Mayen Islands,47441,662,147,4474.05
+297,24,25-34,Non-binary,Desktop,Belarus,45204,3615,82,4085.63
+298,24,45-54,Male,Mobile,Romania,13418,456,127,2543.39
+299,24,45-54,Female,Desktop,United States Virgin Islands,28106,1026,32,2318.65
+300,24,45-54,Non-binary,Tablet,Ghana,21922,4892,99,1258.47
+301,25,25-34,Male,Desktop,Tunisia,19136,1123,104,281.34
+302,25,25-34,Female,Tablet,Netherlands Antilles,35071,370,87,3259.4
+303,25,25-34,Non-binary,Mobile,Poland,31294,829,107,3643.94
+304,25,13-17,Male,Desktop,Jamaica,21287,2882,103,490.86
+305,25,13-17,Female,Desktop,Lao People's Democratic Republic,32862,435,101,1562.37
+306,25,13-17,Non-binary,Desktop,Macao,32831,1044,96,4694.75
+307,25,45-54,Male,Mobile,Bahamas,2419,1885,13,4144.74
+308,25,45-54,Female,Mobile,Germany,7390,2694,177,3648.84
+309,25,45-54,Non-binary,Mobile,Saudi Arabia,11653,771,49,3648.13
+310,26,45-54,Male,Mobile,Czech Republic,3645,2542,20,1392.26
+311,26,45-54,Female,Tablet,Guam,40657,3159,70,3523.46
+312,26,45-54,Non-binary,Mobile,Antigua and Barbuda,38737,3824,31,718.81
+313,26,13-17,Male,Mobile,Jamaica,49850,4835,106,3220.83
+314,26,13-17,Female,Tablet,Cameroon,8519,4324,136,1278.56
+315,26,13-17,Non-binary,Desktop,Saint Pierre and Miquelon,43836,4064,72,1677.37
+316,26,55+,Male,Tablet,Nauru,32134,1900,24,1392.68
+317,26,55+,Female,Desktop,Paraguay,47121,728,91,2836.72
+318,26,55+,Non-binary,Mobile,Slovakia (Slovak Republic),43719,1736,178,482.28
+319,26,18-24,Male,Desktop,Montserrat,4449,1790,4,3385.44
+320,26,18-24,Female,Desktop,Bermuda,25735,1589,125,612.22
+321,26,18-24,Non-binary,Mobile,United States Minor Outlying Islands,39200,4372,132,4306.45
+322,26,35-44,Male,Desktop,Gambia,46933,3769,168,854.59
+323,26,35-44,Female,Tablet,Nigeria,7424,1115,57,4591.82
+324,26,35-44,Non-binary,Desktop,Cameroon,30150,4256,52,3922.1
+325,27,13-17,Male,Tablet,Cyprus,20629,4778,166,600.12
+326,27,13-17,Female,Desktop,Thailand,7523,952,62,181.28
+327,27,13-17,Non-binary,Desktop,Wallis and Futuna,12757,2235,8,2433.58
+328,27,25-34,Male,Tablet,Honduras,30164,2933,68,679.8
+329,27,25-34,Female,Tablet,Dominica,6009,2953,111,1139.12
+330,27,25-34,Non-binary,Desktop,Andorra,33411,3579,131,1735.32
+331,27,35-44,Male,Desktop,Malaysia,18364,3079,26,340.76
+332,27,35-44,Female,Desktop,Lesotho,48472,3511,50,1540.63
+333,27,35-44,Non-binary,Desktop,Korea,12076,4916,71,2694.86
+334,27,55+,Male,Desktop,Northern Mariana Islands,34488,3601,28,3437.69
+335,27,55+,Female,Tablet,Bahrain,16814,959,57,664.42
+336,27,55+,Non-binary,Mobile,Estonia,38198,2230,62,422.65
+337,28,25-34,Male,Desktop,Latvia,26248,879,57,3696.23
+338,28,25-34,Female,Tablet,Saint Barthelemy,18081,4106,53,938.04
+339,28,25-34,Non-binary,Mobile,Argentina,23282,2409,181,3021.94
+340,28,18-24,Male,Tablet,Thailand,703,822,48,2565.88
+341,28,18-24,Female,Tablet,Cameroon,41271,3955,190,1596.09
+342,28,18-24,Non-binary,Tablet,Mali,16138,1444,81,3439.07
+343,28,35-44,Male,Mobile,Costa Rica,12777,2771,117,794.98
+344,28,35-44,Female,Mobile,Kyrgyz Republic,44149,3937,110,1736.87
+345,28,35-44,Non-binary,Mobile,Djibouti,17790,680,44,3428.09
+346,29,45-54,Male,Tablet,Saudi Arabia,565,4050,64,2415.58
+347,29,45-54,Female,Mobile,Bosnia and Herzegovina,1639,4697,175,4953.02
+348,29,45-54,Non-binary,Mobile,Myanmar,34924,4171,43,3799.46
+349,29,25-34,Male,Mobile,Congo,7053,2545,189,1744.82
+350,29,25-34,Female,Desktop,Micronesia,48656,2923,140,1360.96
+351,29,25-34,Non-binary,Desktop,Libyan Arab Jamahiriya,17115,3034,118,166.45
+352,29,35-44,Male,Desktop,Portugal,20235,2783,133,3895.18
+353,29,35-44,Female,Tablet,Congo,32242,973,70,3460.34
+354,29,35-44,Non-binary,Tablet,Saint Barthelemy,42429,219,38,4895.32
+355,30,55+,Male,Mobile,Lebanon,16514,4781,190,3509.45
+356,30,55+,Female,Desktop,Saint Barthelemy,24054,1740,191,537.44
+357,30,55+,Non-binary,Desktop,Guinea,42360,934,71,4398.01
+358,30,18-24,Male,Tablet,Gambia,36211,3730,135,957.27
+359,30,18-24,Female,Tablet,Somalia,23361,2763,101,2986.82
+360,30,18-24,Non-binary,Desktop,Portugal,20771,1611,11,2939.63
+361,30,25-34,Male,Tablet,Kenya,22996,1057,111,3997.13
+362,30,25-34,Female,Tablet,United Arab Emirates,23240,2412,29,4850.4
+363,30,25-34,Non-binary,Desktop,Cape Verde,45426,1255,120,3436.52
+364,30,45-54,Male,Tablet,Mali,19491,4622,171,896.77
+365,30,45-54,Female,Desktop,Cape Verde,19391,579,76,176.4
+366,30,45-54,Non-binary,Mobile,Cyprus,14742,2368,152,704.84
