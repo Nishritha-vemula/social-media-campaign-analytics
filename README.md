@@ -163,7 +163,7 @@ jupyter notebook notebooks/social_media_compaign_analysis.ipynb
 
 ## 📬 Contact
 
-**[Your Name]**
+**NISHRITHA VEMULA**
 📧 nishrithavemula19@gmail.com
 💼 [LinkedIn] https://www.linkedin.com/in/nishritha-vemula-2159232a6/
 🐙 [GitHub]https://github.com/Nishritha-vemula/
